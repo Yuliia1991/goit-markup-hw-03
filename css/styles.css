@@ -231,6 +231,10 @@ text-transform: capitalize;
   gap: 24px;
   
 }
+.person {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
 
 .team-list-item {
   background-color: #FFFFFF;
@@ -290,6 +294,7 @@ text-transform: capitalize;
 .portfolio-text {
   padding: 32px 16px;
   border: 1px solid #E7E9FC;
+  border-top: none;
 
 }
 .portfolio-img {
